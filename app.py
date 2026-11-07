@@ -18,7 +18,7 @@ import seaborn as sns
 st.set_page_config(page_title="ML Assignment 2 - Classification Dashboard", layout="wide")
 
 st.title("🩺 Machine Learning Classification & Deployment Dashboard")
-st.markdown("**BITS M.Tech DSE - Assignment 2** | Student-level interactive web app.")
+st.markdown("**BITS M.Tech - Data Science & Engineering | Multi-Model Classification & Streamlit Deployment Dashboard")
 
 # Sidebar for controls
 st.sidebar.header("Configuration")
